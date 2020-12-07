@@ -20,7 +20,7 @@
   "module": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/@quiqueg/d3-contour.git"
+    "url": "https://github.com/quiqueg/d3-contour.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
