@@ -1,5 +1,5 @@
 {
-  "name": "d3-contour",
+  "name": "@quiqueg/d3-contour",
   "version": "2.0.0",
   "description": "Compute contour polygons using marching squares.",
   "keywords": [
@@ -21,6 +21,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/d3/d3-contour.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "files": [
     "dist/**/*.js",
